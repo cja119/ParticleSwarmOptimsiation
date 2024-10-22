@@ -1,6 +1,6 @@
 # Particle Swarm Optimisation
 Here is an API which demonstrates the power of particle swarm optimisation when optimising multimodel functions.
-![Animation](vertical_animation.gif)
+![Animation](vertical_animation_2.gif)
 
 # Quick Start
 To run this API, first clone this repository to your local machine:
